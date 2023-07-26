@@ -1,0 +1,11 @@
+.app {
+  background-color: #000;
+  color: white;
+  max-width: 100%;
+  min-width: 100%;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+#root {
+  background-color: teal;
+}
