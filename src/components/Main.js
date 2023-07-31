@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Profile from './Profile.js';
 import Publications from './Publications.js';
 import PopupWithForm from './PopupWithForm.js';
-import PopupBigImg from './PopupBigImg.js';
+import PopupBigImg from './ImagePopup.js';
 // параметры инпутов форм
 import {
   popupEditProfileInputs, popupNewPlaceInputs, popupEditAvatarInputs, popupConfirmDeleteInputs,

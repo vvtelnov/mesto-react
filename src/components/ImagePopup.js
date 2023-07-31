@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import CloseBtn from "./UI/CloseBtn"
 
-function PopupBigImg(props) {
+function ImagePopup(props) {
 
   useEffect(() => {
     const handleCloseByEscPress = evt => {
@@ -45,4 +45,4 @@ function PopupBigImg(props) {
   )
 }
 
-export default PopupBigImg
+export default ImagePopup

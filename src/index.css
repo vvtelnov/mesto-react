@@ -5,6 +5,9 @@
 /* fonts */
 @import url(./vendor/fonts/fonts.css);
 
+html {
+  background-color: #000;
+}
 
 /* styles */
 
